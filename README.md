@@ -216,18 +216,18 @@ Accordingly, the profile analysis in the revised manuscript is treated primarily
 
 The two notebooks serve different analytical purposes:
 
-- **`IQ3 (4)(3).ipynb`** contains the streamlined revision and confirmatory analyses used to address the *Creativity Research Journal* editorial recommendations and forms the primary computational basis for the revised statistical results, tables, and figures.
+- **`IQ3 (4)(3).ipynb`** contains the streamlined and confirmatory analyses forms the primary computational basis for the paper statistical results, tables, and figures.
 - **`IQProject2 (1)(2).ipynb`** documents the broader exploratory and developmental analytical workflow, including alternative statistical, machine-learning, nonlinear, and person-centered approaches considered during the project.
 
-Not every analysis contained in the exploratory notebook is reported in the revised manuscript.
+Not every analysis contained in the exploratory notebook is reported in the paper manuscript.
 
 For interpretation of the final statistical conclusions, the revised manuscript and the streamlined analyses in **`IQ3 (4)(3).ipynb`** should be treated as the primary reference.
 
 ---
 
-## Main Analytical Framework of the Revised Manuscript
+## Main Analytical Framework of the Manuscript
 
-The revised analysis focuses on four complementary components:
+The analysis focuses on four complementary components:
 
 1. **Measurement and developmental description**
    - Sample-specific reliability
