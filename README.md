@@ -2,7 +2,7 @@
 
 ## Re-examining the Intelligence–Creativity Relationship Across Creativity Dimensions Using Classical, Nonlinear, and Explainable Analytical Approaches
 
-This repository contains the analysis notebooks associated with the revised manuscript **“Beyond the Threshold? Re-examining the Intelligence–Creativity Relationship Across Creativity Dimensions Using Classical, Nonlinear, and Explainable Analytical Approaches.”**
+This repository contains the analysis notebooks associated with the manuscript **“Beyond the Threshold? Re-examining the Intelligence–Creativity Relationship Across Creativity Dimensions Using Classical, Nonlinear, and Explainable Analytical Approaches.”**
 
 Two notebooks are included. They serve different purposes and should be interpreted accordingly.
 
@@ -10,9 +10,9 @@ Two notebooks are included. They serve different purposes and should be interpre
 
 ## 1. `IQ3 (4)(3).ipynb` — CRJ Revision / Final Confirmatory Analyses
 
-This notebook contains the revised and streamlined analyses conducted primarily in response to the statistical and reporting recommendations provided by the *Creativity Research Journal* editor.
+This notebook contains the streamlined analyses conducted primarily in response to the statistical and reporting recommendations provided by the *Creativity Research Journal* editor.
 
-The revised manuscript primarily relies on the analyses reported in this notebook.
+The manuscript primarily relies on the analyses reported in this notebook.
 
 ### Data Preparation and Reliability
 
@@ -164,7 +164,7 @@ Because Random Forest out-of-sample predictive performance is modest, SHAP resul
 
 This notebook contains the broader set of analyses conducted during development of the project.
 
-It documents the exploratory analytical process and includes methods and model specifications that were considered during earlier stages of the study but are not all retained in the revised manuscript.
+It documents the exploratory analytical process and includes methods and model specifications that were considered during earlier stages of the study but are not all retained in the manuscript.
 
 Analyses explored in this notebook include:
 
@@ -204,11 +204,11 @@ A retained four-profile descriptive solution based on:
 - Category Creativity
 - Teacher Rating
 
-is used in the revised manuscript to provide a complementary illustration of heterogeneity in the intelligence–creativity relationship.
+is used in the manuscript to provide a complementary illustration of heterogeneity in the intelligence–creativity relationship.
 
 The exploratory notebook also contains alternative profile specifications. These alternative solutions document the analytical development process and should not be interpreted as additional confirmatory findings.
 
-Accordingly, the profile analysis in the revised manuscript is treated primarily as a **descriptive person-centered analysis**, rather than as evidence that the sample contains four definitively established discrete student types.
+Accordingly, the profile analysis in the manuscript is treated primarily as a **descriptive person-centered analysis**, rather than as evidence that the sample contains four definitively established discrete student types.
 
 ---
 
@@ -221,7 +221,7 @@ The two notebooks serve different analytical purposes:
 
 Not every analysis contained in the exploratory notebook is reported in the paper manuscript.
 
-For interpretation of the final statistical conclusions, the revised manuscript and the streamlined analyses in **`IQ3 (4)(3).ipynb`** should be treated as the primary reference.
+For interpretation of the final statistical conclusions, the manuscript and the streamlined analyses in **`IQ3 (4)(3).ipynb`** should be treated as the primary reference.
 
 ---
 
